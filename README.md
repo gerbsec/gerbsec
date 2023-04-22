@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm gerbsec</h1>
+<h1 align="center">hey, i'm gerbsec</h1>
 <h3 align="center">security n stuff</h3>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en" alt="gerbsec" /></p>
 
 
-- I work on **random projects that peak my interest**
+- i work on **random projects that peak my interest**
 
-- I am interested in learning **anything and everything security**
+- i am interested in learning **anything and everything security**
 
-- I regularly write articles on [gerbsec.com](gerbsec.com)
+- i regularly write my thoughts on [gerbsec.com](gerbsec.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
