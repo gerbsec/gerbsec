@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gerbsec</h1>
 <h3 align="center">security n stuff</h3>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerbsec" alt="gerbsec" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en" alt="gerbsec" /></p>
 
 - I work on **random projects that peak my interest**
 
@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerbsec&show_icons=true&locale=en&layout=compact" alt="gerbsec" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en" alt="gerbsec" /></p>
+
