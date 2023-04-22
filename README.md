@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gerbsec</h1>
 <h3 align="center">security n stuff</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en" alt="gerbsec" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerbsec&show_icons=true&locale=en&layout=compact" alt="gerbsec" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en" alt="gerbsec" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerbsec&show_icons=true&locale=en&layout=compact" alt="gerbsec" /></p>
 
 - I work on **random projects that peak my interest**
 
