@@ -9,7 +9,7 @@
 
 - i am interested in learning **anything and everything security**
 
-- i regularly write my thoughts on [gerbsec.com](gerbsec.com)
+- i regularly write my thoughts on [gerbsec.com](https://gerbsec.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
