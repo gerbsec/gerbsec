@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gerbsec</h1>
 <h3 align="center">security n stuff</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en" alt="gerbsec" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en" alt="gerbsec" /></p>
 
 - I work on **random projects that peak my interest**
 
