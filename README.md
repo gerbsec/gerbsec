@@ -2,7 +2,7 @@
 <h3 align="center">security n stuff</h3>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en" alt="gerbsec" /></p>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en&theme=tokyonight" alt="gerbsec" /></p>
 
 
 - i work on **random projects that peak my interest**
