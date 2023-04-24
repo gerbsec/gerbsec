@@ -6,7 +6,7 @@
 
 - anything and everything offsec
 
-- ctf team founder and captain of protosec
+- founder and team captain of [protosec](https://twitter.com/protos3c)
 
 #### Socials:
 - [twitter](https://twitter.com/gerbsec)
