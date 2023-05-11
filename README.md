@@ -17,7 +17,6 @@
 <a href="https://www.credly.com/badges/fc1dae51-8b79-4c60-9f85-24dc992a7230">![CPTS](./icons/cpts.png "CPTS")</a>
 <a href="https://www.credly.com/badges/cd99db08-80f8-4309-9aa2-5ab54edd47a0/public_url">![CBBH](./icons/cbbh.png "CBBH")</a>
 <a href="https://www.credential.net/8f673747-46f1-45b7-916e-b8bf82ffafc5">![PNPT](./icons/pnpt.png "PNPT")</a>
-<a href="https://www.credential.net/8f673747-46f1-45b7-916e-b8bf82ffafc5">![PNPT](./icons/pnpt.png "PNPT")</a>
 <a href="https://www.credly.com/badges/ac9a43b9-51bd-43a8-855f-cdaa942c13ac/public_url">![SEC+](./icons/sec+.png "SEC+")</a>
 
 ### 🖥️ Languages and Tools
