@@ -1,5 +1,5 @@
 <h1 align="center">hey, i'm gerbsec</h1>
-<h3 align="center">security n stuff</h3>
+<h3 align="center">offsec n stuff</h3>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en&theme=tokyonight" alt="gerbsec"/>
