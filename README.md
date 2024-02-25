@@ -17,8 +17,9 @@
 <a href="https://www.credential.net/19e60313-d540-407e-9ab2-4d400ab1d516">![OSWA](./icons/oswa.png "OSWA")</a>
 <a href="https://eu.badgr.com/public/assertions/a4EMav_CSaWQ5yhANMUqew">![CRTL](./icons/crtl.png "CRTL")</a>
 <a href="https://api.eu.badgr.io/public/assertions/zMkwZ-sjQLWBDMVP6qbyZg">![CRTO](./icons/crto.png "CRTO")</a>
-<a href="https://www.credly.com/badges/fc1dae51-8b79-4c60-9f85-24dc992a7230">![CPTS](./icons/cpts.png "CPTS")</a>
+<a href="https://www.credly.com/badges/fc1dae51-8b79-4c60-9f85-24dc992a7230/public_url">![CPTS](./icons/cpts.png "CPTS")</a>
 <a href="https://www.credly.com/badges/cd99db08-80f8-4309-9aa2-5ab54edd47a0/public_url">![CBBH](./icons/cbbh.png "CBBH")</a>
+<a href="https://www.credly.com/badges/8199f750-ceca-4900-9cc8-c3b67b6525fd/public_url">![CDSA](./icons/cdsa.png "CDSA")</a>
 <a href="https://www.credential.net/55133e9c-8420-4474-aabe-0385f9612c2a">![CRTP](./icons/crtp.png "CRTP")</a>
 <a href="https://www.credential.net/8f673747-46f1-45b7-916e-b8bf82ffafc5">![PNPT](./icons/pnpt.png "PNPT")</a>
 <a href="https://www.credential.net/83e803b8-50f0-4b7f-b543-8e65c021b69b">![PJPT](./icons/pjpt.png "PJPT")</a>
