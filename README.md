@@ -14,6 +14,7 @@
 
 ### 🏅 Certifications and Achievements
 <a href="https://www.credential.net/aaf2c998-78c4-4714-add1-7185a3602a91">![OSCP](./icons/oscp.png "OSCP")</a>
+<a href="https://www.credential.net/19e60313-d540-407e-9ab2-4d400ab1d516">![OSWA](./icons/oswa.png "OSWA")</a>
 <a href="https://eu.badgr.com/public/assertions/a4EMav_CSaWQ5yhANMUqew">![CRTL](./icons/crtl.png "CRTL")</a>
 <a href="https://api.eu.badgr.io/public/assertions/zMkwZ-sjQLWBDMVP6qbyZg">![CRTO](./icons/crto.png "CRTO")</a>
 <a href="https://www.credly.com/badges/fc1dae51-8b79-4c60-9f85-24dc992a7230">![CPTS](./icons/cpts.png "CPTS")</a>
