@@ -5,8 +5,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gerbsec&show_icons=true&locale=en&theme=tokyonight" alt="gerbsec"/>
 
 
-- anything and everything offsec with a lil bit of purple.
-
+- anything and everything offsec with a lil bit of purple
 - founder and team captain of [protosec](https://twitter.com/protos3c)
 
 #### Socials:
