@@ -14,6 +14,8 @@
 - [website](https://gerbsec.com)
 
 ### 🏅 Certifications and Achievements
+
+<a href="https://www.credential.net/162127db-4ef3-4fb7-814d-d71aa874eb66">![OSEP](./icons/osep.png "OSEP")</a>
 <a href="https://www.credential.net/aaf2c998-78c4-4714-add1-7185a3602a91">![OSCP](./icons/oscp.png "OSCP")</a>
 <a href="https://www.credential.net/19e60313-d540-407e-9ab2-4d400ab1d516">![OSWA](./icons/oswa.png "OSWA")</a>
 <a href="https://www.credential.net/ffee954b-6fbc-4acd-9611-25d983622051">![OSWP](./icons/oswp.png "OSWP")</a>
